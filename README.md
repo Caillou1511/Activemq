@@ -23,9 +23,11 @@ Pour chaque version d'ActiveMQ, les étapes suivantes restent similaires. Vous p
 ## Faire un scan de l'adresse ip d'ActiveMQ.
 
 
-### 1. 'ip a'
+### 1. `ip a`
 
-- On utilise 'ip a' pour identifier l'interface active (UP) et voir qu'elle est l'adresse IP associée a celle-ci.
+- On utilise `ip a` pour identifier l'interface active (UP) et voir qu'elle est l'adresse IP associée a celle-ci.
+
+### 2. `nmap -p- 'adresse ip' `
 
 ## ActiveMQ_2015
 
