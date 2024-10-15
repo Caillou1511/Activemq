@@ -13,22 +13,19 @@ Pour chaque version d'ActiveMQ, les étapes suivantes restent similaires. Vous p
 
 ### 1. `docker-compose up -d`
 
-### Contexte : ActiveMQ
-ActiveMQ est un broker de messages, utilisé pour permettre la communication entre différentes applications via des files d'attente et des sujets. En utilisant Docker, on peut facilement déployer un serveur ActiveMQ.
-
 - La commande `docker-compose up -d` est utilisée pour démarrer ActiveMQ dans un conteneur Docker, en utilisant un fichier `docker-compose.yml` qui contient la configuration nécessaire.  
 
 
 ### 2. `docker container ls`
 
-- **Description** :
-  Cette commande permet de lister tous les conteneurs Docker actuellement en cours d'exécution. Elle fournit des informations comme l'ID du conteneur, l'image utilisée, l'état actuel, le port exposé, etc.
+- Cette commande permet de lister tous les conteneurs Docker actuellement en cours d'exécution. Elle fournit des informations comme l'ID du conteneur, l'image utilisée, l'état actuel, le port exposé, etc.
 
 ## Faire un scan de l'adresse ip d'ActiveMQ.
 
 
 ### 1. 'ip a'
-On utilise ip a pour tro
+
+- On utilise 'ip a' pour identifier l'interface active (UP) et voir qu'elle est l'adresse IP associée a celle-ci.
 
 ## ActiveMQ_2015
 
