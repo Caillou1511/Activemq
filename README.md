@@ -45,3 +45,5 @@ Pour se rediriger sur le site le lien est donc `http://localhost:8161`
 Pour savoir la version il faut se connecter:  
 - Login: admin
 - Mot de passe: admin
+  ![image](https://github.com/user-attachments/assets/1748a66e-53f3-42b9-a840-fd8b5918e3d2)
+
