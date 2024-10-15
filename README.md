@@ -42,6 +42,6 @@ Grace à notre scan on en déduit que le port qui nous intéresse est le 8161.
 Pour se rediriger sur le site le lien est donc `http://localhost:8161`
 
 ### Version d'ActiveMQ 
-Pour savoir la version il faut se connecter:
--Login: admin
--Mot de passe: admin
+Pour savoir la version il faut se connecter:  
+- Login: admin
+- Mot de passe: admin
