@@ -1,7 +1,7 @@
 ## ActiveMQ_2022
 
 ### Scan du réseau
-Dans le cas d'ActiveMQ_2015 l'adresse ip est 172.20.0.1
+Dans le cas d'ActiveMQ_2022 l'adresse ip est 172.20.0.1
 ![Capture d'écran 2024-10-01 222752](https://github.com/user-attachments/assets/82126435-4f87-4cf4-9612-1851736b707c)
 
 Grace à notre scan on en déduit que le port qui nous intéresse est le 8161.
