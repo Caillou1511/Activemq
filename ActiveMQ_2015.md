@@ -17,10 +17,6 @@ Pour savoir la version il faut se connecter:
 ![Capture d'écran 2024-10-01 121800](https://github.com/user-attachments/assets/0566d3f7-64a6-470f-9ca1-1b5049191008)
 
 ### Stratégie de compromission
-(Stratégie de compromission 2015)[stratégie_compromission_2015.rb]
-
-
-
-         
+[Stratégie de compromission 2015](stratégie_compromission_2015.rb)         
 
 ### Exploitation/Explication
