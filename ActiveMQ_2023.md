@@ -1,7 +1,7 @@
 ## ActiveMQ_2023
 
 ### Scan du réseau
-Dans le cas d'ActiveMQ_2015 l'adresse ip est 172.21.0.1
+Dans le cas d'ActiveMQ_2023 l'adresse ip est 172.21.0.1
 ![Capture d'écran 2024-10-01 223944](https://github.com/user-attachments/assets/6284db15-3cc0-4c83-ac30-a6e73294e37d)
 
 
