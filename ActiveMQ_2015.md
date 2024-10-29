@@ -18,8 +18,8 @@ Pour savoir la version il faut se connecter:
 
 ### Stratégie de compromission
 
-# This module requires Metasploit: https://metasploit.com/download
-# Current source: https://github.com/rapid7/metasploit-framework
+ This module requires Metasploit: https://metasploit.com/download
+ Current source: https://github.com/rapid7/metasploit-framework
 
 
 class MetasploitModule < Msf::Exploit::Remote
