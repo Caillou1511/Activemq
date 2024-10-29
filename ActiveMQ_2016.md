@@ -19,5 +19,6 @@ Pour savoir la version il faut se connecter:
 ![Capture d'écran 2024-10-01 221755](https://github.com/user-attachments/assets/68e72d06-2c1d-48d4-9a75-dc8e3dfc7992)
 
 ### Stratégie de compromission
+![image](https://github.com/user-attachments/assets/31071328-028d-442e-8a8d-d7b43110bffa)
 
 ### Exploitation/Explication
