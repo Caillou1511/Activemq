@@ -22,5 +22,9 @@ Cette vulnérabilité est lié à une mauvaise gestion des autorisations dans la
 [Stratégie de compromission 2015](stratégie_compromission_2015.rb)   
 
 ### Exploitation/Explication  
+### 1. `Objectif du module`  
+Le module permet de téléverser un fichier JSP malaveillant en coutournant les restrictions de chemin grâce à ..//.  Il permet aussi d'obtenir un accès shell a distance.
 
-Le module permet de téléverser un fichier JSP malaveillant en coutournant les restrictions de chemin grâce à ..//
+### 2. `Fonctionnement`
+
+
