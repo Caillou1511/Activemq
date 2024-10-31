@@ -15,6 +15,7 @@ Pour savoir la version il faut se connecter:
 
 
 ### CVE Score
+CVE-2022-41678  
 ![Capture d'écran 2024-10-01 223527](https://github.com/user-attachments/assets/3c50dd11-80fa-46d8-92da-1470d02fab16)
 
 
