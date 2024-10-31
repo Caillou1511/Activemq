@@ -15,7 +15,8 @@ Pour savoir la version il faut se connecter:
 ![Capture d'écran 2024-10-01 221646](https://github.com/user-attachments/assets/2c0e9b96-c9f4-4b3d-9914-b44cb599d0cb)
 
 
-### CVE Score
+### CVE Score  
+CVE-2016-0782  
 ![Capture d'écran 2024-10-01 221755](https://github.com/user-attachments/assets/68e72d06-2c1d-48d4-9a75-dc8e3dfc7992)
 
 ### Stratégie de compromission
