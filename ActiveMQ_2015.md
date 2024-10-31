@@ -19,6 +19,8 @@ CVE-2015-1830
 Cette vulnérabilité est lié à une mauvaise gestion des autorisations dans la console web d'administration d'Apache ActiveMQ. En particulier, les utilisateurs non autorisés pourraient potentiellement accéder à des informations sensibles ou exécuter certaines actions de gestion sans authentification adéquate.
 
 ### Stratégie de compromission
-[Stratégie de compromission 2015](stratégie_compromission_2015.rb)         
+[Stratégie de compromission 2015](stratégie_compromission_2015.rb)   
 
-### Exploitation/Explication
+### Exploitation/Explication  
+
+Le module permet de téléverser un fichier JSP malaveillant en coutournant les restrictions de chemin grâce à ..//
