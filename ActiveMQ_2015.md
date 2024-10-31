@@ -15,7 +15,8 @@ Pour savoir la version il faut se connecter:
 
 ### CVE Score
 CVE-2015-1830  
-![Capture d'écran 2024-10-01 121800](https://github.com/user-attachments/assets/0566d3f7-64a6-470f-9ca1-1b5049191008)
+![Capture d'écran 2024-10-01 121800](https://github.com/user-attachments/assets/0566d3f7-64a6-470f-9ca1-1b5049191008)  
+Cette vulnérabilité est lié à une mauvaise gestion des autorisations dans la console web d'administration d'Apache ActiveMQ. En particulier, les utilisateurs non autorisés pourraient potentiellement accéder à des informations sensibles ou exécuter certaines actions de gestion sans authentification adéquate.
 
 ### Stratégie de compromission
 [Stratégie de compromission 2015](stratégie_compromission_2015.rb)         
