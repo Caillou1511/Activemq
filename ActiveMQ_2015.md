@@ -26,5 +26,8 @@ Cette vulnérabilité est lié à une mauvaise gestion des autorisations dans la
 Le module permet de téléverser un fichier JSP malaveillant en coutournant les restrictions de chemin grâce à ..//.  Il permet aussi d'obtenir un accès shell a distance.
 
 ### 2. `Fonctionnement`
-
+Tout d'abord on utilise les identifiants par défaut (admin:admin)   
+Ensuite on vérifié si la cible est vulnérable.   
+Puis ensuite il téléverse le payload JSP et l'éxecute.   
+Cela permet donc d'avoir l'accès au shell.  
 
