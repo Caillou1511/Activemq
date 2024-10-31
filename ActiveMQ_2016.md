@@ -19,7 +19,9 @@ Pour savoir la version il faut se connecter:
 CVE-2016-0782  
 ![Capture d'écran 2024-10-01 221755](https://github.com/user-attachments/assets/68e72d06-2c1d-48d4-9a75-dc8e3dfc7992)
 
+Cette vulnérabilité est critique dans Apache ActiveMQ affectant les versions 5.x. Cette vulnérabilité permet aux attaquants de réaliser des attaques de Remote Code Execution (RCE) via une faille dans la gestion des fichiers de configuration ActiveMQ.
+
 ### Stratégie de compromission
-![image](https://github.com/user-attachments/assets/31071328-028d-442e-8a8d-d7b43110bffa)
+
 
 ### Exploitation/Explication
