@@ -11,7 +11,7 @@ Pour se rediriger sur le site le lien est donc `http://localhost:8161`
 ### Version d'ActiveMQ 
 Pour savoir la version il faut se connecter:  
 - Login: admin
-- Mot de passe: admin
+- Mot de passe: admin  
 ![Capture d'écran 2024-10-01 221646](https://github.com/user-attachments/assets/2c0e9b96-c9f4-4b3d-9914-b44cb599d0cb)
 
 
